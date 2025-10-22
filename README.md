@@ -141,11 +141,7 @@ Carlos Andrés Valderrutén Rodríguez
 📜 Licencia
 
 MIT License © 2025 Carlos Andrés Valderrutén
-
-
 ---
 
-¿Quieres que te lo deje ya formateado como archivo `.md` dentro del proyecto (`Catalog.Api/README.md`) y te lo exporte en Word y Markdown para subirlo directo al repo?  
-Así te queda todo 100 % listo para “push” con solo un `git add . && git commit -m "📘 Add professional README" && git push`.
 
 
