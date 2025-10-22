@@ -37,6 +37,7 @@ API REST minimalista desarrollada en **.NET 8** con **Entity Framework Core** y 
 ## 🧩 Estructura del proyecto
 
 Catalog.Api/
+
 ├── Program.cs
 ├── AppDb.cs
 ├── Product.cs
