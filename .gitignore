@@ -1,0 +1,10 @@
+bin/
+obj/
+.env
+.vscode/
+.idea/
+*.user
+*.db
+*.mdf
+*.ldf
+docker-compose.override.yml
